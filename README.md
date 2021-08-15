@@ -1,5 +1,7 @@
 # StarsRating
 ## Description 
+  ### Demo : 
+    https://yuvam2017.github.io/StarsRating/
   How to use star rating in your website <br>
   Here are the best options:
  
